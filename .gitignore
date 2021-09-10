@@ -1,0 +1,9 @@
+/.idea/
+/error.log
+/file/
+/go.sum
+/*.pem
+httpserver
+/settings/
+httpserver.code-workspace
+/.vscode/
